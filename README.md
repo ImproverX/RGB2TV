@@ -10,6 +10,7 @@ Changes to the previous design:
 
 Alternate [project by desaster](https://github.com/desaster/vector06c-rgb2tv.git), by to the previous circuit.
 
+![Circuit](/RGB2TV8m.png)
 ![Board](/Photos/IMG_20211127_100254-min.jpg)
 ![Board](/Photos/IMG_20211127_220917-min.jpg)
 ![Board](/Photos/IMG_20211127_225612-min.jpg)
